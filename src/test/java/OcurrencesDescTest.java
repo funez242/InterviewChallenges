@@ -1,4 +1,4 @@
-import Iterview.OcurrencesDescTreeMap;
+import Luxoft.OcurrencesDescTreeMap;
 import org.junit.Test;
 
 import java.util.Arrays;
